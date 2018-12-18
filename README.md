@@ -131,10 +131,3 @@ _yii framework y php_
 Este proyecto está bajo la Licencia (Licencia MIT) - mira el archivo [LICENSE](https://github.com/jiuly256/qashoptest/blob/master/LICENSE)(LICENSE.md) para detalles
 
 ## Gracias 🎁
-
-* si quieres unirte de verdad seria genial
-* Contribuye a que crezca
-* Gracias
-
-
-
