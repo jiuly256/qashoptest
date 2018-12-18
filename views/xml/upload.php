@@ -17,7 +17,7 @@ $this->params['breadcrumbs'][] = $this->title;
     <div class="col-lg-12">
         <div class="alert alert-warning">
             El nombre del archivo xml sera el nombre del archivo csv<br/>
-            Ejemplo: <strong>producto.xml<strong> generará <strong>producto.csv<strong><br/>
+            Ejemplo: <strong>producto.xml</strong> generará <strong>producto.csv</strong><br/>
         </div>
         
         <?php 
