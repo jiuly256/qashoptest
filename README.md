@@ -2,7 +2,7 @@
 _Este proyecto es una prueba técnica para Tech Lead, hecho en Yii2 . Las funciones principales son pasar un archivo de xml a csv y fusionar 2 archivos csv_
 
 [![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](https://www.yiiframework.com/) 
-[![License](https://img.shields.io/badge/license-MIT-orange.svg)](https://github.com/jiuly256/qashoptest/blob/master/README.md)
+[![License](https://img.shields.io/badge/license-BSD3-orange.svg)](https://github.com/jiuly256/qashoptest/blob/master/README.md)
 [![Autor](https://img.shields.io/badge/creado%20por-Jiuly%20Rojas-ff69b4.svg)](https://jiuly.com.ve/blog/)
 
 ## Comenzando 🚀
