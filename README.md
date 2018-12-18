@@ -113,6 +113,14 @@ Header_1,Header_2,Header_3,Header_4,Header_5,Header_6,Header_7
 
 _Los archivos de prueba estan en una carpeta en la raiz llamada_ ***archivos de prueba***
 
+### Instalación 🔧
+
+_Correr en la carpeta raiz del proyecto_
+
+```
+composer update
+
+```
 
 ## Construido con 🛠️
 
