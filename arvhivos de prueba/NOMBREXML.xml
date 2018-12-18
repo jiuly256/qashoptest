@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+   <colores>
+      <color>
+         <nombre>Negro</nombre>
+         <codigo_hexadecimal>000000</codigo_hexadecimal>
+      </color>
+      <color>
+         <nombre>Blanco</nombre>
+         <codigo_hexadecimal>ffffff</codigo_hexadecimal>
+      </color>
+   </colores>
+</xml>   

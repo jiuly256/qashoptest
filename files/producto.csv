@@ -1,0 +1,5 @@
+Name Header;Description Header;Image 1 Header;Colour Header;Size Header;Sleeve Length Header;Sku Header;Heel Height Header;Laces Header
+name;description;image_1;colour;size;sleeve_length;;;
+name;description;image_1;colour;;;sku;heel_height;laces
+name;description;image_1;colour;size;sleeve_length;sku;;
+name;description;image_1;colour;size;sleeve_length;sku;;
